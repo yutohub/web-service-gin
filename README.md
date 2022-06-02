@@ -66,3 +66,5 @@ $ curl http://localhost:8080/albums/2
 ## References
 
 [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+
+[Gin Web Framework](https://github.com/gin-gonic/gin)
