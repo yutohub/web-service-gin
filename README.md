@@ -41,6 +41,11 @@ func main() {
 }
 ```
 
+## Run the server
+```
+$ go run .
+```
+
 ## Try HTTP request with curl command
 
 ### GET – Get a list of all albums, returned as JSON.
